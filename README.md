@@ -9,6 +9,7 @@
 This project focuses on exploring and analyzing a dataset of smartwatches using SQL. The goal is to understand pricing patterns, brand performance, customer preferences, and discount trends within the smartwatch market.
 
 
+
 # Objectives
 Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
 Data Cleaning: Identify and remove any records with missing or null values.
