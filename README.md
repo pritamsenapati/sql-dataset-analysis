@@ -102,6 +102,7 @@ CREATE TABLE smartwatches (
 
 21 .Show the brand(s) with the highest average rating.
 select brand,avg(Rating) avg_rating from smartwatches group by brand order by avg_rating desc limit 1;
+\n
 22 .Find the model with the largest discount percentage in each brand.
   SELECT Brand, 
        Model_name, 
